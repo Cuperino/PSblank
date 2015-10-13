@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1406298620 source:c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\javistd.cpp
+	"javistd.h"
+
+1406243805 "
+
+1406298633 c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\javistd.h
+	<iostream>
+	<limits>
+
+1406388586 
+
+1406611933 source:c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	"javistd.h"
+
+1406243702 c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\str2num.h
+	<math.h>
+
+1406243805 source:c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\str2num.cpp
+	"str2num.h"
+
+1406388586 c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\include\outstream.h
+	<ostream>
+	<fstream>
+
+1406387471 source:c:\users\javier\dropbox\duplexprinter\código\psblank\psblank\src\outstream.cpp
+	"outstream.h"
+
+1406387471 .h"
+
+1406298620 source:/home/javier/Dropbox/DuplexPrinter/CÃ³digo/PSblank/PSblank/javistd.cpp
+	"javistd.h"
+
+1406298633 /home/javier/Dropbox/DuplexPrinter/CÃ³digo/PSblank/PSblank/javistd.h
+	<iostream>
+	<limits>
+
+1406946968 source:/home/javier/Dropbox/DuplexPrinter/CÃ³digo/PSblank/PSblank/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	"javistd.h"
+
